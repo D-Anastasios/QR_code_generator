@@ -14,7 +14,8 @@ To use this script, you need Python 3.x and the following dependencies:
 
 ### Install Dependencies
 ```bash
-pip install qrcode[pil] pillow
+pip install qrcode
+pip install pillow
 ```
 ## Clone repository
 git clone https://github.com/YOUR_GITHUB_USERNAME/QR_code_generator.git
